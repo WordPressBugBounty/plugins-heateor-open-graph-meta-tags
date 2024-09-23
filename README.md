@@ -1,0 +1,1 @@
+# plugins-heateor-open-graph-meta-tags
