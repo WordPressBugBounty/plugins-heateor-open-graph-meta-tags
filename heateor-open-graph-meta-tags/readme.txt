@@ -3,8 +3,8 @@ Contributors: Heateor
 Donate link: https://www.heateor.com/donate/?action=Heateor+Open+Graph+Meta+Tags
 Tags: Open Graph, Open Graph Meta, Facebook Open Graph, Facebook Meta Tags, Twitter Cards, Twitter Card, Google Schema, SEO, Search Engine Optimization
 Requires at least: 3.0
-Tested up to: 6.4
-Stable tag: 1.1.11
+Tested up to: 6.7.2
+Stable tag: 1.1.12
 License: GPLv2 or later
 
 Optimizes social share by inserting Facebook Open Graph, Google Plus/Schema.org, Twitter Card and Other Meta Tags in HTML source.
@@ -77,6 +77,10 @@ Yes, we can help you with it. Just drop an email at support[at]heateor[dot]com
 2. **Meta Tags**: Meta tags in HTML source of website
 
 == Changelog ==
+= 1.1.12 =
+* [Improvement] Performance improvement
+* [Improvement] Updated Facebook JS SDK being used throughout the plugin to the latest version 22.0
+
 = 1.1.11 =
 * [Improvement] Performance improvement
 * [Improvement] Admin UI improvement
@@ -176,3 +180,7 @@ Yes, we can help you with it. Just drop an email at support[at]heateor[dot]com
 * [Improvement] Performance improvement
 * [Improvement] Admin UI improvement
 * [Improvement] Updated Facebook JS SDK being used throughout the plugin to the latest version 17.0
+
+= 1.1.12 =
+* [Improvement] Performance improvement
+* [Improvement] Updated Facebook JS SDK being used throughout the plugin to the latest version 22.0

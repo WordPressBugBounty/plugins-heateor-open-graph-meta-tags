@@ -237,17 +237,6 @@ class Heateor_Open_Graph_Meta_Tags_Admin {
 	}
 
 	/**
-	 * Set BuddyPress active flag to true
-	 *
-	 * @since    1.0
-	 */
-	public function is_bp_loaded() {
-		
-		$this->is_bp_active = true;
-	
-	}
-
-	/**
 	 * If Yoast SEO plugin is active
 	 *
 	 * @since    1.0

@@ -7,7 +7,7 @@
  * Plugin Name:       Open Graph Meta Tags by Heateor
  * Plugin URI:        https://www.heateor.com
  * Description:       Optimizes social sharing by inserting Facebook Open Graph, GooglePlus/Schema.org and Twitter Card Tags in HTML source code of your WordPress Website. 
- * Version:           1.1.11
+ * Version:           1.1.12
  * Author:            Team Heateor
  * Author URI:        https://www.heateor.com
  * Text Domain:       heateor-open-graph-meta-tags
@@ -21,7 +21,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-define( 'HEATEOR_OGMT_VERSION', '1.1.11' );
+define( 'HEATEOR_OGMT_VERSION', '1.1.12' );
 
 // plugin core class object
 $heateor_ogmt = null;

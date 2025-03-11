@@ -112,8 +112,6 @@ class Heateor_Open_Graph_Meta_Tags {
 		add_action( 'admin_menu', array( $plugin_admin, 'create_admin_menu' ) );
 		// set sanitization callback for plugin options
 		add_action( 'admin_init', array( $plugin_admin, 'options_init' ) );
-		// check if BuddyPress is active
-		add_action( 'bp_include', array( $plugin_admin, 'is_bp_loaded' ) );
 		// add a "Settings" link to the Plugins page
 		add_filter( 'plugin_action_links_heateor-open-graph-meta-tags/heateor-open-graph-meta-tags.php', array( $plugin_admin, 'place_settings_link' ) );
 		if ( isset( $this->options['enable_fb_cache_clearer'] ) ) {
