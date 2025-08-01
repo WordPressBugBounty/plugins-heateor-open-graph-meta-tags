@@ -3,7 +3,7 @@ Contributors: Heateor
 Donate link: https://www.heateor.com/donate/?action=Heateor+Open+Graph+Meta+Tags
 Tags: Open Graph, Open Graph Meta, Facebook Open Graph, Facebook Meta Tags, Twitter Cards, Twitter Card, Google Schema, SEO, Search Engine Optimization
 Requires at least: 3.0
-Tested up to: 6.7.2
+Tested up to: 6.8
 Stable tag: 1.1.12
 License: GPLv2 or later
 
