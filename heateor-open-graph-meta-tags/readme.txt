@@ -1,25 +1,26 @@
-﻿=== Open Graph, Google Plus/Schema.org, Twitter Card Tags for WordPress ===
+﻿=== Optimize Social Share ===
 Contributors: Heateor
 Donate link: https://www.heateor.com/donate/?action=Heateor+Open+Graph+Meta+Tags
-Tags: Open Graph, Open Graph Meta, Facebook Open Graph, Facebook Meta Tags, Twitter Cards, Twitter Card, Google Schema, SEO, Search Engine Optimization
+Tags: Open Graph, Open Graph Meta Tags, Facebook Open Graph, Twitter Cards, Google Schema, SEO, Search Engine Optimization
 Requires at least: 3.0
-Tested up to: 6.8
+Tested up to: 6.8.2
 Stable tag: 1.1.12
 License: GPLv2 or later
 
-Optimizes social share by inserting Facebook Open Graph, Google Plus/Schema.org, Twitter Card and Other Meta Tags in HTML source.
+Optimizes social share by inserting Facebook Open Graph Meta Tags, General Meta Tags, Schema.org Meta Tags, Twitter Cards and Other Meta Tags in HTML source.
 
 == Description ==
 
 = This plugin allows you to insert: =
-* Facebook Open Graph Meta Tags for efficient Facebook sharing
-* Twitter Card tags for more effective Twitter sharing
-* Meta Description and Schema.org tags for more effective Google sharing results
+* General Open Graph Meta Tags for efficient overall social share for any social network
+* Facebook Open Graph Meta Tags for efficient Facebook share
+* Twitter Cards for more effective Twitter share
+* Meta Description and Schema.org tags for more effective Google share results
 
 = Feature list =
 * Compatible with Gutenberg Editor
 * Facebook Open Graph Meta Tags
-* Twitter Card tags
+* Twitter Cards
 * Google Plus/Schema.org tags
 * Option to automatically purge Facebook Open Graph Meta Tags cache whenever you update/publish a post/page
 * Compatible with <a href="https://wordpress.org/plugins/wordpress-seo/" target="_blank">WordPress SEO by Yoast</a> plugin
@@ -27,15 +28,15 @@ Optimizes social share by inserting Facebook Open Graph, Google Plus/Schema.org,
 * Compatible with <a href="https://wordpress.org/plugins/business-directory-plugin/" target="_blank">Business Directory Plugin</a> plugin
 * Compatible with BuddyPress, BBPress, WooCommerce
 * Supports HTTPS enabled websites
-* 24/7 quickest support
+* 24/7 quick support
 
 = What makes this plugin Stand Out from others? =
-1. **Free**: Yea, right. It is a free plugin. You need not pay single penny to use the features of this plugin.
+1. **We do not ask for money**: Yea, right. You need not pay single penny to use the features of this plugin.
 2. **No Need to Register Anywhere**: You do not need to create account at our website to use this plugin.
 3. **Absolutely Simple**: Plugin configuration is kept dead simple.
-4. **Lightweight Code**: Our developers follow best coding practices to ensure efficient loading and performance.
-5. We are committed to provide **best quality** among other similar plugins. If you find our plugin is lacking some feature, you can email us and we will do our best to include that feature in our plugin as soon as possible.
-6. Our **support team is working 24/7** to answer your queries and assist you. You will find us the quickest to respond.
+4. **Lightweight Code**: Our developers follow the trending coding practices to ensure efficient loading and performance.
+5. We are committed to provide **better quality** among other similar plugins. If you find our plugin is lacking some feature, you can email us and we will include that feature in our plugin as soon as possible.
+6. Our **support team is working 24/7** to answer your queries and assist you. You will find us the quick to respond.
 
 = Important links =
 * About Us: https://www.heateor.com
@@ -60,20 +61,20 @@ After installing and activating the plugin, you will see **Open Graph Meta Tags*
 There is **help** available with each option. You can see the help text by clicking the **?** icon before each option.
 
 = How much do you charge for the plugin? =
-This plugin is FREE to download and feel free to use it on your WordPress, BuddyPress, BBPress and any other WP based systems. For advanced features and custom solutions, drop an email at support[at]heateor[dot]com
+This plugin doesn't ask you for money to download and use it on your WordPress, BuddyPress, BBPress and any other WP based systems. For advanced features and custom solutions, drop an email at support[at]heateor[dot]com
 
 = Can you help me set up the plugin at my website? =
 Yes, we can help you with it. Just drop an email at support[at]heateor[dot]com
 
 == Frequently Asked Questions ==
 = How much do you charge for the plugin? =
-This plugin is FREE to download and feel free to use it on your WordPress, BuddyPress, BBPress and any other WP based systems. For advanced features and custom solutions, drop an email at support[at]heateor[dot]com
+This plugin doesn't ask you for money to download and use it on your WordPress, BuddyPress, BBPress and any other WP based systems. For advanced features and custom solutions, drop an email at support[at]heateor[dot]com
 
 = Can you help me set up the plugin at my website? =
 Yes, we can help you with it. Just drop an email at support[at]heateor[dot]com
 
 == Screenshots ==
-1. **Plugin Options Page**: Tons of options, FREE
+1. **Plugin Options Page**: Tons of options
 2. **Meta Tags**: Meta tags in HTML source of website
 
 == Changelog ==
